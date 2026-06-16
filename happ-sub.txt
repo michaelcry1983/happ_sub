@@ -1,12 +1,9 @@
-#profile-title: Michaelcry1983 - 💀 Fuck the white list 🚫
+#profile-title: 💀Michaelcry1983VPN💀
 #profile-update-interval: 10
 
 #subscription-userinfo: upload=0; download=0; total=1073741824; expire=1767196800
 
-#announce: 🔥 КАЖДЫЙ ДЕНЬ НОВЫЕ СЕРВЕРА! 🔥
-#announce: ✅ Работают везде: Россия, Германия, Нидерланды
-#announce: ⚡ Безлимит, высокая скорость, стабильное соединение
-#announce: 📅 Подписка активна до: 01.07.2026
+#announce:  🔥 Fuck the white list 🚫 \n ✅ Работают везде: Россия, Германия, Нидерланды \n ⚡ Безлимит, высокая скорость, стабильное соединение \n 📅 Подписка вечная
 
 vless://5600fe64-a323-46f6-938c-4a7808c2e61c@193.168.46.180:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rruu.persik.host&fp=qq&security=reality&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%236
 vless://5f6c1a49-1fde-4277-8ee3-3683a5cadcae@193.168.46.180:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rruu.persik.host&fp=qq&security=reality&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%232
